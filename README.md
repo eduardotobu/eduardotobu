@@ -1,39 +1,41 @@
-# Hi there, I'm Eduardo 👋
-### Data Analyst
+# Hi there, I'm Eduardo Torres 👋
 
-I am a data analyst passionate about turning raw data into actionable business insights. I specialize in data wrangling, statistical analysis, and building interactive dashboards to help teams make data-driven decisions.
+### Senior Data Analyst | Retail Banking & Supply Chain Analytics
 
-Currently, I'm [mention what you are doing, e.g., looking for a Data Analyst role / completing a Master's in Data Science / working on predictive modeling].
+I am a Senior Data Analyst with a strong background in translating complex data into strategic business decisions. Currently, I specialize in retail banking analytics at **Hey Banco**, where I focus on optimizing financial products and customer experiences. 
+
+Previously, I honed my analytical skills in the e-commerce retail space at **enviaflores.com**, driving demand planning and supply chain analytics. I enjoy bridging the gap between operations, finance, and data science to solve high-impact business problems.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** SQL, Python (Pandas, NumPy), [R or other languages]
-* **Data Visualization:** Tableau, Power BI, [Seaborn/Matplotlib]
-* **Databases & Tools:** PostgreSQL, Excel, Jupyter Notebooks, Git
+* **Languages:** Python, SQL
+* **Business Intelligence & Viz:** Tableau, Power BI, Looker, Plotly, Seaborn, Matplotlib
+* **Data Manipulation & Stats:** Pandas, NumPy, SciPy, Pingouin, Scikit-Learn
+* **Cloud & Databases:** AWS Redshift, AWS S3
+* **Data Collection (Scraping):** BeautifulSoup, Selenium
 
 ---
 
 ### 📊 Featured Projects
 
-* **[Project 1 Title e.g., E-Commerce Sales Dashboard]** | [Link to your repo]
-  * **Objective:** Analyzed 2 years of sales data to identify seasonal trends and customer purchasing behaviors.
-  * **Tech:** Python, SQL, Tableau
-  * **Impact:** Identified a specific customer segment that could increase Q4 revenue by 12%.
+* **[Project 1 Title: e.g., Retail Bank Customer Segmentation]** | [Link to your repo]
+  * **Objective:** [Briefly explain the business problem you were trying to solve.]
+  * **Tech Stack:** [e.g., Python, SQL, Tableau]
+  * **Business Impact:** [What was the key insight? e.g., "Identified a segment of high-risk users, leading to a proposed strategy that could reduce default rates by 5%."]
 
-* **[Project 2 Title e.g., Customer Churn Prediction]** | [Link to your repo]
-  * **Objective:** Built an exploratory analysis and logistic regression model to understand why customers were leaving a subscription service.
-  * **Tech:** Python (Scikit-Learn, Pandas)
-  * **Impact:** Uncovered that high-churn customers were heavily correlated with a specific pricing tier.
+* **[Project 2 Title: e.g., Supply Chain Demand Forecasting]** | [Link to your repo]
+  * **Objective:** [Briefly explain the business problem you were trying to solve.]
+  * **Tech Stack:** [e.g., Python (Pandas, Scikit-Learn), AWS S3]
+  * **Business Impact:** [What was the key insight? e.g., "Built a predictive model that improved inventory forecasting accuracy for seasonal peaks by 15%."]
 
 ---
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [Link to your LinkedIn]
-* **Portfolio/Blog:** [Link to your website, Medium, or Substack if you have one]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** [Eduardo Torres](https://www.linkedin.com/in/eduardotobu)
+
 <!--
 **eduardotobu/eduardotobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
