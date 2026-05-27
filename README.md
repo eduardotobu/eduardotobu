@@ -20,8 +20,8 @@ Previously, I honed my analytical skills in the e-commerce retail space at **env
 
 ### 📊 Featured Projects
 
-* **[México Gas Geospatial Analysis: End-to-End ETL & Geospatial Analysis]** | [Link to your repo](https://github.com/eduardotobu/mexico-gas-geospatial-analysis)
-   Work In Progress
+* **[México Gas Geospatial Analysis: End-to-End ETL & Geospatial Analysis]** | [Link](https://github.com/eduardotobu/mexico-gas-geospatial-analysis)
+   <br> Work In Progress
 <!--  * **Objective:** [Briefly explain the business problem you were trying to solve.]
   * **Tech Stack:** [e.g., Python, SQL, Tableau]
   * **Business Impact:** [What was the key insight? e.g., "Identified a segment of high-risk users, leading to a proposed strategy that could reduce default rates by 5%."]
