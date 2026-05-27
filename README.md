@@ -20,16 +20,12 @@ Previously, I honed my analytical skills in the e-commerce retail space at **env
 
 ### 📊 Featured Projects
 
-* **[Project 1 Title: e.g., Retail Bank Customer Segmentation]** | [Link to your repo]
-  * **Objective:** [Briefly explain the business problem you were trying to solve.]
+* **[México Gas Geospatial Analysis: End-to-End ETL & Geospatial Analysis]** | [Link to your repo](https://github.com/eduardotobu/mexico-gas-geospatial-analysis)
+   Work In Progress
+<!--  * **Objective:** [Briefly explain the business problem you were trying to solve.]
   * **Tech Stack:** [e.g., Python, SQL, Tableau]
   * **Business Impact:** [What was the key insight? e.g., "Identified a segment of high-risk users, leading to a proposed strategy that could reduce default rates by 5%."]
-
-* **[Project 2 Title: e.g., Supply Chain Demand Forecasting]** | [Link to your repo]
-  * **Objective:** [Briefly explain the business problem you were trying to solve.]
-  * **Tech Stack:** [e.g., Python (Pandas, Scikit-Learn), AWS S3]
-  * **Business Impact:** [What was the key insight? e.g., "Built a predictive model that improved inventory forecasting accuracy for seasonal peaks by 15%."]
-
+-->
 ---
 
 ### 📫 Let's Connect!
